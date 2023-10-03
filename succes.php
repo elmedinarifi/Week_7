@@ -1,8 +1,9 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <link rel="stylesheet" href="kmd.css"/>
+    <meta charset="UTF-8">
     <title>Succes!</title>
+    <link rel="stylesheet" href="kmd.css"/>
 </head>
 <body>
     <div class="container-contact">
@@ -10,10 +11,10 @@
             <div class="row-1 container-a">
                 <div class="item-a">
                     <img alt="kommaardoor" src="img/favicon.png" style="max-height: 8vh;"/>
-                    <h4 style="color:red;">Kom maar door!</h4>
+                    <h4 class="rodeHeader">Kom maar door!</h4>
                 </div>
                 <div class="item-b">
-                    <a href=""><h4>Home</h4></a>
+                    <a href="kommaardoor.php"><h4>Home</h4></a>
                 </div>
                 <div class="item-c">
                     <a href=""><h4>Products</h4></a>

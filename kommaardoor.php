@@ -1,8 +1,9 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <link rel="stylesheet" href="kmd.css"/>
+    <meta charset="UTF-8">
     <title>Kom maar door!!</title>
+    <link rel="stylesheet" href="kmd.css"/>
 </head>
 <body>
     <div class="container">
@@ -10,10 +11,10 @@
             <div class="row-1 container-a">
                 <div class="item-a">
                     <img alt="kommaardoor" src="img/favicon.png" style="max-height: 8vh;"/>
-                    <h4 style="color:red;">Kom maar door!</h4>
+                    <h4 class="rodeHeader">Kom maar door!</h4>
                 </div>
                 <div class="item-b">
-                    <a href=""><h4>Home</h4></a>
+                    <a href="kommaardoor.php"><h4>Home</h4></a>
                 </div>
                 <div class="item-c">
                     <a href=""><h4>Products</h4></a>
@@ -28,13 +29,13 @@
         </div>
         <div class="row-3">
             <div>
-                <h2 style="color:red;">Welcome to kom maar door!</h2>
-                <p style="color: white;">We innovate by looking at the quality products of<br>yesterday.</p>
+                <h2 class="rodeHeader">Welcome to kom maar door!</h2>
+                <p class="p-text">We innovate by looking at the quality products of<br>yesterday.</p>
             </div>
             <img alt="ManImg" src="img/Harold.png" class="harold-img"/>
         </div>
         <div class="row-4">
-            <h3 style="color: red;">Our Products</h3>
+            <h3 class="rodeHeader">Our Products</h3>
             <div class="products-container">
                 <div class="product-a">
                     <h3>9000 series</h3><br>

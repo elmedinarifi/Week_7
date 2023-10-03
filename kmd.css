@@ -6,6 +6,16 @@
     display: grid;
     grid-template-rows: 10vh 70vh auto;
 }
+.rodeHeader{
+    color: red;
+}
+.contactpagina-btn{
+    background-color: red;
+    padding: 10px;
+}
+.p-text{
+    color: white;
+}
 .row-1{
     grid-row-start: 1;
     top: 0;

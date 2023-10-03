@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
+    <meta charset="UTF-8">
     <title>Contact!</title>
     <link rel="stylesheet" href="kmd.css"/>
 </head>
@@ -10,10 +11,10 @@
             <div class="row-1 container-a">
                 <div class="item-a">
                     <img alt="kommaardoor" src="img/favicon.png" style="max-height: 8vh;"/>
-                    <h4 style="color:red;">Kom maar door!</h4>
+                    <h4 class="rodeHeader">Kom maar door!</h4>
                 </div>
                 <div class="item-b">
-                    <a href=""><h4>Home</h4></a>
+                    <a href="kommaardoor.php"><h4>Home</h4></a>
                 </div>
                 <div class="item-c">
                     <a href=""><h4>Products</h4></a>
@@ -25,7 +26,7 @@
         </header>
         <div class="row-2 contact-pagina-row">
             <form action="succes.php" method="POST">
-                <h3 style="color: red;">Contact!</h3>
+                <h3 class="rodeHeader">Contact!</h3>
                 <label>Naam</label>
                 <input name="name" type="text" placeholder="Type hier je naam!"><br>
                 <label>E-mail</label>
@@ -45,7 +46,7 @@
                     <label for="yes">Yes</label>
                     <input type="radio" name="receive-letter" id="no" value="no"/>
                     <label for="no">No</label><br>
-                    <input style="background-color: red; padding: 10px;" type="submit" name="submit-btn" value="Send!"/>
+                    <input class="contactpagina-btn" type="submit" name="submit-btn" value="Send!"/>
             </form>
         </div>
         <footer>

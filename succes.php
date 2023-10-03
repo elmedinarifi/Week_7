@@ -3,14 +3,14 @@
 <head>
     <meta charset="UTF-8">
     <title>Succes!</title>
-    <link rel="stylesheet" href="kmd.css"/>
+    <link rel="stylesheet" href="kmd.css">
 </head>
 <body>
     <div class="container-contact">
         <header>
             <div class="row-1 container-a">
                 <div class="item-a">
-                    <img alt="kommaardoor" src="img/favicon.png" style="max-height: 8vh;"/>
+                    <img alt="kommaardoor" src="img/favicon.png" style="max-height: 8vh;">
                     <h4 class="rodeHeader">Kom maar door!</h4>
                 </div>
                 <div class="item-b">

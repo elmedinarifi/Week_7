@@ -11,7 +11,7 @@
 
             echo "Dear Mr $name <br><br> We have received your $select on the $subject.
             We will contact you as soon <br> as possible at $email.<br> Kind regards, <br><br> H.T.P. Harold
-            <br><br><img class='harold-img' alt='harold-foto' src='img/Harold.png'/>" ;
+            <br><br><img class='harold-img' alt='harold-foto' src='img/Harold.png'>" ;
 
         }
     ?>

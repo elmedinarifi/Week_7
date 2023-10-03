@@ -1,16 +1,15 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
     <meta charset="UTF-8">
     <title>Contact!</title>
-    <link rel="stylesheet" href="kmd.css"/>
+    <link rel="stylesheet" href="kmd.css">
 </head>
 <body>
     <div class="container-contact">
         <header>
             <div class="row-1 container-a">
                 <div class="item-a">
-                    <img alt="kommaardoor" src="img/favicon.png" style="max-height: 8vh;"/>
+                    <img alt="kommaardoor" src="img/favicon.png" style="max-height: 8vh;">
                     <h4 class="rodeHeader">Kom maar door!</h4>
                 </div>
                 <div class="item-b">
@@ -42,11 +41,11 @@
                 <label>Message</label>
                 <textarea name="message-textarea" rows="3" cols="40"></textarea><br>
                 <label>Do you want to receive our newsletter?</label>
-                    <input type="radio" name="receive-letter" id="yes" value="yes"/>
+                    <input type="radio" name="receive-letter" id="yes" value="yes">
                     <label for="yes">Yes</label>
-                    <input type="radio" name="receive-letter" id="no" value="no"/>
+                    <input type="radio" name="receive-letter" id="no" value="no">
                     <label for="no">No</label><br>
-                    <input class="contactpagina-btn" type="submit" name="submit-btn" value="Send!"/>
+                    <input class="contactpagina-btn" type="submit" name="submit-btn" value="Send!">
             </form>
         </div>
         <footer>
